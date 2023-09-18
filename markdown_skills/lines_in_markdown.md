@@ -24,16 +24,4 @@ and here the line 2
 
 Here, we have a new paragraph.
 
-## To add an empty line
-you type 
-``
-Hello! here is the line 1  
-and here the line 2 "enter"
-\newline
-Here, we have a new paragraph.
 
-```
-Hello! here is the line 1  
-and here the line 2 
-\newline
-Here, we have a new paragraph.
